@@ -1,0 +1,20 @@
+Class Employee implements comparable{
+int id;
+Sting name;
+int age;
+String level;
+
+//sql= select * from Employee order by  
+
+
+public int compareTo(Empl obj){
+if (this.age!=obj.age){
+if(this.age>Empl.age){
+return 1
+}
+}else{
+if(this.aname>Empl.name){
+return 1}
+}
+}
+}
