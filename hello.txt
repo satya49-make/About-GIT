@@ -5,7 +5,7 @@ int age;
 String level;
 
 //sql= select * from Employee order by  
-
+//great
 
 public int compareTo(Empl obj){
 if (this.age!=obj.age){
